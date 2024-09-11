@@ -549,7 +549,7 @@
   },
   "dependencies": {
     "solidity-workspace": "^0.2.1",
-    "surya": "^0.4.6"
+    "surya": "^0.4.11"
   },
   "devDependencies": {
     "prettier": "^3.0.3"
